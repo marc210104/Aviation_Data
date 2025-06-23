@@ -23,7 +23,7 @@ El código cumple con las restricciones impuestas:
 
 FICHEROS
 --------
-- `Projecte Aeroports v.Final (Marc Iglesias - Hugo Mengual - Marc Ortiz).cpp`: Código fuente principal.
+- `Projecte Aeroports v.Final.cpp`: Código fuente principal.
 - `*.txt`: Archivos de datos originales.
 
 COMPILACIÓN
@@ -61,7 +61,7 @@ The code follows the constraints established:
 
 FILES
 -----
-- `Projecte Aeroports v.Final (Marc Iglesias - Hugo Mengual - Marc Ortiz).cpp`: Main source code.
+- `Projecte Aeroports v.Final.cpp`: Main source code.
 - `*.txt`: Original data files.
 
 COMPILATION
